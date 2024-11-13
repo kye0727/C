@@ -1,3 +1,4 @@
+// 포인터를 이용해 오름차순으로 정렬
 #include <stdio.h>
 
 void sort(float * a, float* b, float* c, float* d) {
